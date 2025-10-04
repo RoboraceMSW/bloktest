@@ -1,6 +1,7 @@
 {
     "name": "bloktest",
-    "description": "",
+    "version": "0.0.1",
+    "description": "Blokkentest",
     "dependencies": {
         "core": "*",
         "radio": "*",
@@ -14,6 +15,7 @@
     "testFiles": [
         "test.ts"
     ],
+    "icon": "remote_icon.png",
     "targetVersions": {
         "target": "8.0.16",
         "targetId": "microbit"
