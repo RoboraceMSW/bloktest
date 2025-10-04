@@ -8,7 +8,7 @@
         "microphone": "*"
     },
     "filesAssets"[
-    "https://raw.githubusercontent.com/RoboraceMSW/bloktest/master/remote_icon.png"    ],
+    "https://raw.githubusercontent.com/microsoft/pxt-sample/main/icon.png"    ],
     "files": [
         "main.blocks",
         "main.ts",
@@ -17,7 +17,7 @@
     "testFiles": [
         "test.ts"
     ],
-    "icon": "https://raw.githubusercontent.com/RoboraceMSW/bloktest/master/remote_icon.png",
+    "icon": "https://raw.githubusercontent.com/microsoft/pxt-sample/main/icon.png",
     "targetVersions": {
         "target": "8.0.16",
         "targetId": "microbit"
