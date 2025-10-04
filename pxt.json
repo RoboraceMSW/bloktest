@@ -7,6 +7,9 @@
         "radio": "*",
         "microphone": "*"
     },
+    "filesAssets"[
+    "remote_icon.png"
+    ],
     "files": [
         "main.blocks",
         "main.ts",
