@@ -15,7 +15,7 @@
     "testFiles": [
         "test.ts"
     ],
-    "icon": "remote_icon.png",
+    "icon": "remote_icon128_.png",
     "targetVersions": {
         "target": "8.0.16",
         "targetId": "microbit"
