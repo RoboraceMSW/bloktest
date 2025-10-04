@@ -15,7 +15,7 @@
     "testFiles": [
         "test.ts"
     ],
-    "icon": "remote_icon128_.png",
+    "icon": "remote_icon.png",
     "targetVersions": {
         "target": "8.0.16",
         "targetId": "microbit"
@@ -23,5 +23,6 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "blocksprj",
+    "public": true
 }
