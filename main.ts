@@ -12,3 +12,4 @@ namespace myGlobals {
         _lives = value
     }
 }
+
