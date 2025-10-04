@@ -1,4 +1,4 @@
-//% color="#AA278D" icon="\uf012"
+//% color="#AA278D" icon="\uf11b"
 namespace myGlobals {
     let _lives = 3
 
